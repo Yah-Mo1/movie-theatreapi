@@ -14,9 +14,9 @@ We’ll have 2 Express Routers:
 Now that we have the starting point, let’s get to work coding it out!  Use the following as a guide.
 
 ### Install Dependencies
-- Install the following npm packages:
-  - sqlite3
-  - sequelize
+- ~~Install the following npm packages:~~
+  - ~~sqlite3~~
+  - ~~sequelize~~
   - express
   - express-validator
   - nodemon
